@@ -67,9 +67,8 @@ Engineered by a developer building a real-world JARVIS-style assistant.
 ⭐ **Star the repository to support the journey to Mark 100.**
 
 | Platform | Link |
+
 |---|---|
 | YouTube | [@reflections77-r8v](https://www.youtube.com/@reflections77-r8v) |
-| Instagram | [@zubair_jutt_298](https://www.instagram.com/zubair_jutt_298/?hl=en) |
-| Facebook | [@hafizzubair.ahmad.796](https://www.facebook.com/hafizzubair.ahmad.796) |
 | Instagram | [@zubair_jutt_298](https://www.instagram.com/zubair_jutt_298/?hl=en) |
 | Facebook | [@hafizzubair.ahmad.796](https://www.facebook.com/hafizzubair.ahmad.796) |
